@@ -1,0 +1,18 @@
+Company Handbook (2026 Edition)
+
+Work hours: Standard hours are 9:30 AM to 6:30 PM local time, Monday to Friday.
+Flexible start times are allowed within a 90-minute window if your manager approves.
+
+Time off:
+- Employees accrue 1.5 days of paid leave per month.
+- Unused leave can be carried forward up to 10 days into the next year.
+- Sick leave is separate from paid leave and does not require advance approval.
+
+IT policy:
+- Company laptops must use full-disk encryption.
+- Do not share passwords or API keys in chat or email.
+- Use the approved password manager for all work accounts.
+
+Support escalation:
+Tier 1 handles basic requests. Tier 2 handles account changes and refunds.
+Critical incidents require immediate escalation to the on-call manager.

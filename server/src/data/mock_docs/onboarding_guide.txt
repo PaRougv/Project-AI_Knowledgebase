@@ -1,0 +1,14 @@
+New Hire Onboarding Guide
+
+Accounts:
+- Your email and SSO accounts are provisioned on your start date.
+- Multi-factor authentication (MFA) is mandatory for all systems.
+
+First week checklist:
+- Read the company handbook and security policy.
+- Attend the product overview session on Wednesday at 2 PM.
+- Set up your development environment with the standard toolchain.
+
+Support:
+- For access issues, open a ticket with IT.
+- For payroll or benefits questions, contact HR.
